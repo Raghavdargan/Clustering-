@@ -29,13 +29,12 @@ The clustering techniques are evaluated based on the following parameters:
 ### Graphs showing Pre-Processing Techniques
 Various pre-processing techniques are applied to the data before clustering:
 
-1. **No Preprocessing:** Using the raw data without any pre-processing.
-2. **Normalization:** Scaling the features to a standard range.
-3. **PCA (Principle Component Analysis):** Reducing dimensionality using PCA.
-4. **Transform:** Applying a transformation to the data.
-5. **Scale:** Scaling the data using standard scaling.
-6. **Normalization + Transformation:** Combining normalization and transformation techniques.
-7. **Normalization + Transformation + PCA:** Combining normalization, transformation, and PCA techniques.
+1. **Normalization:** Scaling the features to a standard range.
+2. **PCA (Principle Component Analysis):** Reducing dimensionality using PCA.
+3. **Transform:** Applying a transformation to the data.
+4. **Scale:** Scaling the data using standard scaling.
+5. **Normalization + Transformation:** Combining normalization and transformation techniques.
+6. **Normalization + Transformation + PCA:** Combining normalization, transformation, and PCA techniques.
 
 ### Results Table
 
