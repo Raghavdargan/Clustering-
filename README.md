@@ -30,12 +30,16 @@ The clustering techniques are evaluated based on the following parameters:
 Various pre-processing techniques are applied to the data before clustering:
 
 1. **Normalization:** Scaling the features to a standard range.
+   ![Normal](https://github.com/Raghavdargan/Clustering_102103042/blob/main/Normalization.png)
 2. **PCA (Principle Component Analysis):** Reducing dimensionality using PCA.
+   ![PCA](https://github.com/Raghavdargan/Clustering_102103042/blob/main/PCA.png)
 3. **Transform:** Applying a transformation to the data.
-4. **Scale:** Scaling the data using standard scaling.
-5. **Normalization + Transformation:** Combining normalization and transformation techniques.
-6. **Normalization + Transformation + PCA:** Combining normalization, transformation, and PCA techniques.
-
+     ![Tra](https://github.com/Raghavdargan/Clustering_102103042/blob/main/Transformation.png)
+4. **Normalization + Transformation:** Combining normalization and transformation techniques.
+       ![N+T](https://github.com/Raghavdargan/Clustering_102103042/blob/main/Normalisation%20%2B%20Transform.png)
+5. **Normalization + Transformation + PCA:** Combining normalization, transformation, and PCA techniques.
+       ![N+T+P](https://github.com/Raghavdargan/Clustering_102103042/blob/main/Normalisation%2Btransform%20%2B%20PCA.png)
+   
 ### Results Table
 
 1. Kmeans Clustering
